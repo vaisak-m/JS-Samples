@@ -1,0 +1,30 @@
+// {
+//     "parserOptions": {
+//         "ecmaVersion":6
+//     },
+
+//     "env":{
+//         "browser" : true,
+//         "node": true
+//     },
+
+//     "extends":[
+
+//         "eslint:recommended"
+//     ],
+
+//    "rules":{
+//         "prefer-const": "warn",
+//         "camelcase": "warn",
+//         "quotes": [ 1,"single"],
+//         "spaced-comment": "warn",
+//         "semi": "error",
+//         "space-infix-ops": "warn",
+//         "no-unused-vars": "warn",
+//         "no-var": "error",
+//         "comma-spacing":"warn", 
+//         "object-property-newline":"warn",
+//         "object-curly-spacing":"warn"
+//         }
+    
+// }
